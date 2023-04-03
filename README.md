@@ -4,8 +4,7 @@
 🐍 Working on **Python projects** <br>
 🔎 Highly interested in **telecommunications** and **cyber security**. Passiote about **game development**. <br>
 💼 Extensive experience in **project management** and **software testing**.<br> <br>
-📫 Contact me: **bilski.mateusz@protonmail.com**, **LinkedIn** - www.linkedin.com/in/
-mateusz-bilski-994779b8
+📫 Contact me: **bilski.mateusz@protonmail.com**, **LinkedIn** - www.linkedin.com/in/mateusz-bilski-994779b8
 
 
 
