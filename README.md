@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Mateusz</h1>
-<h3 align="center">I'm software developer from Poland</h3>
+<h3 align="center">I'm a software developer from Poland</h3>
 
-🐍 Working on **Python projects** <br>
-🔎 Highly interested in **telecommunications** and **cyber security**. Passiote about **game development**. <br>
-💼 Extensive experience in **project management** and **software testing**.<br> <br>
-📫 Contact me: **bilski.mateusz@protonmail.com**, **LinkedIn** - www.linkedin.com/in/mateusz-bilski-994779b8
+🐍 Working on **Python projects** <p>
+🔎 Highly interested in **telecommunications** and **cyber security**. Passiote about **game development**. <p>
+💼 Extensive experience in **project management** and **software testing**.<p> <br>
+📫 Contact me: **bilski.mateusz@protonmail.com**, <a href = "www.linkedin.com/in/mateusz-bilski-994779b8">**LinkedIn**</a>
 
 
 
